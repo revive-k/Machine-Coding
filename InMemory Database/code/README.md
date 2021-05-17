@@ -10,4 +10,3 @@ It should be possible to-
 7. It should be possible to insert records in a table.
 8. It should be possible to print all records in a table.
 9. It should be possible to filter and display records whose column values match a given value.
->>>>>>> 3339efff0bd94cadcecc6966ab38016d53e6df14
