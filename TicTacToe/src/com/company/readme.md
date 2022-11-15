@@ -7,6 +7,6 @@ If board size is equal or larger than 5 then it will find sequence of length 5.
 If sequence is found then current player wins the game.
 It generates moves randomly. 
 In order to change board dimension, edit value of row & col in Main class.
-To see output, simply run the code. Each move prints move made with board state after the move
+To see output, simply run the code. Each move prints move made with board state after the move.
 
 Formula for sequence length: this.matchCountToWin = Math.min(5, Math.min(row, column));
